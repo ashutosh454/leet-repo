@@ -8,4 +8,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0665-non-decreasing-array](https://github.com/ashutosh454/leet-repo/tree/master/0665-non-decreasing-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ashutosh454/leet-repo/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+## Linked List
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/ashutosh454/leet-repo/tree/master/2487-remove-nodes-from-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/ashutosh454/leet-repo/tree/master/2487-remove-nodes-from-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/ashutosh454/leet-repo/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/ashutosh454/leet-repo/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
