@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1796-second-largest-digit-in-a-string](https://github.com/ashutosh454/leet-repo/tree/master/1796-second-largest-digit-in-a-string) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/ashutosh454/leet-repo/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
