@@ -49,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1796-second-largest-digit-in-a-string](https://github.com/ashutosh454/leet-repo/tree/master/1796-second-largest-digit-in-a-string) |
+| [3941-password-strength](https://github.com/ashutosh454/leet-repo/tree/master/3941-password-strength) |
 ## String
 |  |
 | ------- |
 | [1796-second-largest-digit-in-a-string](https://github.com/ashutosh454/leet-repo/tree/master/1796-second-largest-digit-in-a-string) |
+| [3941-password-strength](https://github.com/ashutosh454/leet-repo/tree/master/3941-password-strength) |
 ## Math
 |  |
 | ------- |
