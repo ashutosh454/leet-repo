@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/ashutosh454/leet-repo/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/ashutosh454/leet-repo/tree/master/2469-convert-the-temperature) |
 | [2582-pass-the-pillow](https://github.com/ashutosh454/leet-repo/tree/master/2582-pass-the-pillow) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ashutosh454/leet-repo/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Greedy
 |  |
 | ------- |
@@ -75,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2582-pass-the-pillow](https://github.com/ashutosh454/leet-repo/tree/master/2582-pass-the-pillow) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ashutosh454/leet-repo/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 <!---LeetCode Topics End-->
