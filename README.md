@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutosh454/leet-repo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/ashutosh454/leet-repo/tree/master/0189-rotate-array) |
 | [0665-non-decreasing-array](https://github.com/ashutosh454/leet-repo/tree/master/0665-non-decreasing-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ashutosh454/leet-repo/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 ## Linked List
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutosh454/leet-repo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/ashutosh454/leet-repo/tree/master/0189-rotate-array) |
 ## Tree
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ashutosh454/leet-repo/tree/master/0189-rotate-array) |
 | [2235-add-two-integers](https://github.com/ashutosh454/leet-repo/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/ashutosh454/leet-repo/tree/master/2469-convert-the-temperature) |
 | [2582-pass-the-pillow](https://github.com/ashutosh454/leet-repo/tree/master/2582-pass-the-pillow) |
