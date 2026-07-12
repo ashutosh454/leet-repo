@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashutosh454/leet-repo/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutosh454/leet-repo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/ashutosh454/leet-repo/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/ashutosh454/leet-repo/tree/master/0392-is-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/ashutosh454/leet-repo/tree/master/0392-is-subsequence) |
 | [0420-strong-password-checker](https://github.com/ashutosh454/leet-repo/tree/master/0420-strong-password-checker) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ashutosh454/leet-repo/tree/master/1796-second-largest-digit-in-a-string) |
 | [2299-strong-password-checker-ii](https://github.com/ashutosh454/leet-repo/tree/master/2299-strong-password-checker-ii) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ashutosh454/leet-repo/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashutosh454/leet-repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/ashutosh454/leet-repo/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
