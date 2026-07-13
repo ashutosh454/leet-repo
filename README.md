@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ashutosh454/leet-repo/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ashutosh454/leet-repo/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/ashutosh454/leet-repo/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/ashutosh454/leet-repo/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutosh454/leet-repo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashutosh454/leet-repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/ashutosh454/leet-repo/tree/master/0189-rotate-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ashutosh454/leet-repo/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/ashutosh454/leet-repo/tree/master/0073-set-matrix-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh454/leet-repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ashutosh454/leet-repo/tree/master/1796-second-largest-digit-in-a-string) |
 | [3941-password-strength](https://github.com/ashutosh454/leet-repo/tree/master/3941-password-strength) |
@@ -120,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ashutosh454/leet-repo/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ashutosh454/leet-repo/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/ashutosh454/leet-repo/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
