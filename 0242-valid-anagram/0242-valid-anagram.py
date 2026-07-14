@@ -1,18 +1,10 @@
+from collections import Counter
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
+        s_counter= Counter(s)
+        t_counter= Counter(t)
+
+        if s_counter == t_counter:
+            return True
+        return False
         
-        if len(s) != len(t):
-            return False
-            
-        
-        count_s = {}
-        for char in s:
-            count_s[char] = count_s.get(char, 0) + 1
-            
-        
-        count_t = {}
-        for char in t:
-            count_t[char] = count_t.get(char, 0) + 1
-            
-        
-        return count_s == count_t
