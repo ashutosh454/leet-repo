@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ashutosh454/leet-repo/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ashutosh454/leet-repo/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ashutosh454/leet-repo/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ashutosh454/leet-repo/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/ashutosh454/leet-repo/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ashutosh454/leet-repo/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ashutosh454/leet-repo/tree/master/0202-happy-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ashutosh454/leet-repo/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ashutosh454/leet-repo/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashutosh454/leet-repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/ashutosh454/leet-repo/tree/master/0392-is-subsequence) |
 ## Sorting
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ashutosh454/leet-repo/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ashutosh454/leet-repo/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
