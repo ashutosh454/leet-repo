@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ashutosh454/leet-repo/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ashutosh454/leet-repo/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ashutosh454/leet-repo/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/ashutosh454/leet-repo/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ashutosh454/leet-repo/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutosh454/leet-repo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashutosh454/leet-repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ashutosh454/leet-repo/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ashutosh454/leet-repo/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ashutosh454/leet-repo/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/ashutosh454/leet-repo/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ashutosh454/leet-repo/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ashutosh454/leet-repo/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/ashutosh454/leet-repo/tree/master/0172-factorial-trailing-zeroes) |
