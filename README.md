@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ashutosh454/leet-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/ashutosh454/leet-repo/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/ashutosh454/leet-repo/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/ashutosh454/leet-repo/tree/master/0274-h-index) |
 | [0454-4sum-ii](https://github.com/ashutosh454/leet-repo/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/ashutosh454/leet-repo/tree/master/0485-max-consecutive-ones) |
 | [0665-non-decreasing-array](https://github.com/ashutosh454/leet-repo/tree/master/0665-non-decreasing-array) |
@@ -149,10 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ashutosh454/leet-repo/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ashutosh454/leet-repo/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/ashutosh454/leet-repo/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh454/leet-repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/ashutosh454/leet-repo/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh454/leet-repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
