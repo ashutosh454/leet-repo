@@ -189,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ashutosh454/leet-repo/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ashutosh454/leet-repo/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
