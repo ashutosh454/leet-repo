@@ -4,9 +4,8 @@ class Solution:
         nums3= set(nums1)
         nums4= set(nums2)
 
-        for num1 in nums2:
-            for num2 in nums3:
-                if num1==num2:
-                    result.add(num1)
+        for num in nums3:
+            if num in nums4:
+                result.add(num)
         return list(result)
         
