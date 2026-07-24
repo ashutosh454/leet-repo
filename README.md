@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ashutosh454/leet-repo/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/ashutosh454/leet-repo/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ashutosh454/leet-repo/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/ashutosh454/leet-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/ashutosh454/leet-repo/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/ashutosh454/leet-repo/tree/master/0485-max-consecutive-ones) |
 | [0665-non-decreasing-array](https://github.com/ashutosh454/leet-repo/tree/master/0665-non-decreasing-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutosh454/leet-repo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/ashutosh454/leet-repo/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ashutosh454/leet-repo/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ashutosh454/leet-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ashutosh454/leet-repo/tree/master/0392-is-subsequence) |
 ## Tree
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ashutosh454/leet-repo/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ashutosh454/leet-repo/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashutosh454/leet-repo/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ashutosh454/leet-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/ashutosh454/leet-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/ashutosh454/leet-repo/tree/master/0454-4sum-ii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ashutosh454/leet-repo/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ashutosh454/leet-repo/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ashutosh454/leet-repo/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/ashutosh454/leet-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/ashutosh454/leet-repo/tree/master/0451-sort-characters-by-frequency) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh454/leet-repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ashutosh454/leet-repo/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/ashutosh454/leet-repo/tree/master/0349-intersection-of-two-arrays) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 ## Memoization
 |  |
