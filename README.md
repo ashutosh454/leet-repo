@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/ashutosh454/leet-repo/tree/master/0595-big-countries) |
 | [1075-project-employees-i](https://github.com/ashutosh454/leet-repo/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/ashutosh454/leet-repo/tree/master/1148-article-views-i) |
+| [1211-queries-quality-and-percentage](https://github.com/ashutosh454/leet-repo/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/ashutosh454/leet-repo/tree/master/1251-average-selling-price) |
 | [1683-invalid-tweets](https://github.com/ashutosh454/leet-repo/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ashutosh454/leet-repo/tree/master/1757-recyclable-and-low-fat-products) |
