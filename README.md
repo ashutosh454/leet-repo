@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ashutosh454/leet-repo/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ashutosh454/leet-repo/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ashutosh454/leet-repo/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ashutosh454/leet-repo/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ashutosh454/leet-repo/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ashutosh454/leet-repo/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ashutosh454/leet-repo/tree/master/0073-set-matrix-zeroes) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ashutosh454/leet-repo/tree/master/0054-spiral-matrix) |
 | [2582-pass-the-pillow](https://github.com/ashutosh454/leet-repo/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ashutosh454/leet-repo/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3925-concatenate-array-with-reverse](https://github.com/ashutosh454/leet-repo/tree/master/3925-concatenate-array-with-reverse) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ashutosh454/leet-repo/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ashutosh454/leet-repo/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ashutosh454/leet-repo/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ashutosh454/leet-repo/tree/master/0073-set-matrix-zeroes) |
 ## String Matching
 |  |
