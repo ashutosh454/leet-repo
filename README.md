@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ashutosh454/leet-repo/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/ashutosh454/leet-repo/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/ashutosh454/leet-repo/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ashutosh454/leet-repo/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ashutosh454/leet-repo/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh454/leet-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/ashutosh454/leet-repo/tree/master/0454-4sum-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ashutosh454/leet-repo/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ashutosh454/leet-repo/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashutosh454/leet-repo/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ashutosh454/leet-repo/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh454/leet-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/ashutosh454/leet-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/ashutosh454/leet-repo/tree/master/0454-4sum-ii) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/ashutosh454/leet-repo/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ashutosh454/leet-repo/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ashutosh454/leet-repo/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/ashutosh454/leet-repo/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/ashutosh454/leet-repo/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/ashutosh454/leet-repo/tree/master/2469-convert-the-temperature) |
 | [2582-pass-the-pillow](https://github.com/ashutosh454/leet-repo/tree/master/2582-pass-the-pillow) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ashutosh454/leet-repo/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ashutosh454/leet-repo/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ashutosh454/leet-repo/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ashutosh454/leet-repo/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh454/leet-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/ashutosh454/leet-repo/tree/master/0451-sort-characters-by-frequency) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ashutosh454/leet-repo/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/ashutosh454/leet-repo/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh454/leet-repo/tree/master/0349-intersection-of-two-arrays) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 ## Memoization
@@ -250,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ashutosh454/leet-repo/tree/master/0451-sort-characters-by-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ashutosh454/leet-repo/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
