@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashutosh454/leet-repo/tree/master/0042-trapping-rain-water) |
+| [2390-removing-stars-from-a-string](https://github.com/ashutosh454/leet-repo/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ashutosh454/leet-repo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ashutosh454/leet-repo/tree/master/1796-second-largest-digit-in-a-string) |
 | [2299-strong-password-checker-ii](https://github.com/ashutosh454/leet-repo/tree/master/2299-strong-password-checker-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/ashutosh454/leet-repo/tree/master/2390-removing-stars-from-a-string) |
 | [3941-password-strength](https://github.com/ashutosh454/leet-repo/tree/master/3941-password-strength) |
 ## Math
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ashutosh454/leet-repo/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashutosh454/leet-repo/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/ashutosh454/leet-repo/tree/master/2390-removing-stars-from-a-string) |
 | [2582-pass-the-pillow](https://github.com/ashutosh454/leet-repo/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ashutosh454/leet-repo/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3925-concatenate-array-with-reverse](https://github.com/ashutosh454/leet-repo/tree/master/3925-concatenate-array-with-reverse) |
