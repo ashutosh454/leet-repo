@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/ashutosh454/leet-repo/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/ashutosh454/leet-repo/tree/master/0485-max-consecutive-ones) |
 | [0665-non-decreasing-array](https://github.com/ashutosh454/leet-repo/tree/master/0665-non-decreasing-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ashutosh454/leet-repo/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh454/leet-repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ashutosh454/leet-repo/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ashutosh454/leet-repo/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ashutosh454/leet-repo/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh454/leet-repo/tree/master/0349-intersection-of-two-arrays) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ashutosh454/leet-repo/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 ## Memoization
 |  |
