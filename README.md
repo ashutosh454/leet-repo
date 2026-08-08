@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ashutosh454/leet-repo/tree/master/0392-is-subsequence) |
 | [0420-strong-password-checker](https://github.com/ashutosh454/leet-repo/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/ashutosh454/leet-repo/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/ashutosh454/leet-repo/tree/master/0520-detect-capital) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ashutosh454/leet-repo/tree/master/1796-second-largest-digit-in-a-string) |
 | [2299-strong-password-checker-ii](https://github.com/ashutosh454/leet-repo/tree/master/2299-strong-password-checker-ii) |
