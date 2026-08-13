@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ashutosh454/leet-repo/tree/master/0061-rotate-list) |
+| [0328-odd-even-linked-list](https://github.com/ashutosh454/leet-repo/tree/master/0328-odd-even-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ashutosh454/leet-repo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
