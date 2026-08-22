@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ashutosh454/leet-repo/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ashutosh454/leet-repo/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ashutosh454/leet-repo/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/ashutosh454/leet-repo/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutosh454/leet-repo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashutosh454/leet-repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ashutosh454/leet-repo/tree/master/0128-longest-consecutive-sequence) |
@@ -294,6 +295,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ashutosh454/leet-repo/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ashutosh454/leet-repo/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/ashutosh454/leet-repo/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ashutosh454/leet-repo/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ashutosh454/leet-repo/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
