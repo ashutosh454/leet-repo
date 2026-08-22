@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashutosh454/leet-repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ashutosh454/leet-repo/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ashutosh454/leet-repo/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ashutosh454/leet-repo/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/ashutosh454/leet-repo/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashutosh454/leet-repo/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ashutosh454/leet-repo/tree/master/0392-is-subsequence) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ashutosh454/leet-repo/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ashutosh454/leet-repo/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ashutosh454/leet-repo/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ashutosh454/leet-repo/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ashutosh454/leet-repo/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ashutosh454/leet-repo/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/ashutosh454/leet-repo/tree/master/0172-factorial-trailing-zeroes) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ashutosh454/leet-repo/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ashutosh454/leet-repo/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashutosh454/leet-repo/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/ashutosh454/leet-repo/tree/master/2390-removing-stars-from-a-string) |
 | [2582-pass-the-pillow](https://github.com/ashutosh454/leet-repo/tree/master/2582-pass-the-pillow) |
@@ -290,5 +293,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ashutosh454/leet-repo/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/ashutosh454/leet-repo/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
