@@ -12,7 +12,7 @@ class Solution:
             if not curr_str or curr_str[-1] == "1":
                 generate(curr_str + "0")
 
-        generate("0")
-        generate("1")
+        generate("")
+        
         return result
 
