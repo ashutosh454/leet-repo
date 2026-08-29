@@ -4,7 +4,7 @@ class Solution:
             if len(sub) == k:
                 result.append(sub.copy())
                 return
-        if index >= len(arr) or total>target:
+        if index >= len(arr) or total>target or len(sub)>k:
             return
         
         sub.append(arr[index])
