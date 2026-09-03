@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ashutosh454/leet-repo/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashutosh454/leet-repo/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ashutosh454/leet-repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ashutosh454/leet-repo/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/ashutosh454/leet-repo/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/ashutosh454/leet-repo/tree/master/2469-convert-the-temperature) |
 | [2582-pass-the-pillow](https://github.com/ashutosh454/leet-repo/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ashutosh454/leet-repo/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ashutosh454/leet-repo/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
