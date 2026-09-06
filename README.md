@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/ashutosh454/leet-repo/tree/master/0665-non-decreasing-array) |
 | [0735-asteroid-collision](https://github.com/ashutosh454/leet-repo/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ashutosh454/leet-repo/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1004-max-consecutive-ones-iii](https://github.com/ashutosh454/leet-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh454/leet-repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ashutosh454/leet-repo/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ashutosh454/leet-repo/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/ashutosh454/leet-repo/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ashutosh454/leet-repo/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh454/leet-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ashutosh454/leet-repo/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1004-max-consecutive-ones-iii](https://github.com/ashutosh454/leet-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ashutosh454/leet-repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Memoization
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashutosh454/leet-repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/ashutosh454/leet-repo/tree/master/1004-max-consecutive-ones-iii) |
 ## Bucket Sort
 |  |
 | ------- |
