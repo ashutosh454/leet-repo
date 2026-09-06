@@ -12,9 +12,9 @@ class Solution:
                 if nums[left] == 0:
                     zero_count-=1
                 left+=1
-            
-            window_size = right-left + 1
-            max_length = max(max_length, window_size)
+            if zero_count <=k:
+                window_size = right-left + 1
+                max_length = max(max_length, window_size)
         return max_length
 
 
