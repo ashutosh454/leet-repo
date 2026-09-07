@@ -1,6 +1,9 @@
 class Solution:
     def maxScore(self, cardPoints: List[int], k: int) -> int:
         n = len(cardPoints)
+        if n == k:
+            return sum(cardPoints)
+            
         left_sum = sum(cardPoints[:k])
         right_sum = 0
         max_score = left_sum
