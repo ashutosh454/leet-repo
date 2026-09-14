@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ashutosh454/leet-repo/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/ashutosh454/leet-repo/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/ashutosh454/leet-repo/tree/master/0904-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/ashutosh454/leet-repo/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashutosh454/leet-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh454/leet-repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ashutosh454/leet-repo/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutosh454/leet-repo/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ashutosh454/leet-repo/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0994-rotting-oranges](https://github.com/ashutosh454/leet-repo/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ashutosh454/leet-repo/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ashutosh454/leet-repo/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ashutosh454/leet-repo/tree/master/0073-set-matrix-zeroes) |
+| [0994-rotting-oranges](https://github.com/ashutosh454/leet-repo/tree/master/0994-rotting-oranges) |
 ## String Matching
 |  |
 | ------- |
