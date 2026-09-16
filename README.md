@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ashutosh454/leet-repo/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ashutosh454/leet-repo/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/ashutosh454/leet-repo/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/ashutosh454/leet-repo/tree/master/0542-01-matrix) |
 | [0665-non-decreasing-array](https://github.com/ashutosh454/leet-repo/tree/master/0665-non-decreasing-array) |
 | [0713-subarray-product-less-than-k](https://github.com/ashutosh454/leet-repo/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/ashutosh454/leet-repo/tree/master/0733-flood-fill) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ashutosh454/leet-repo/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutosh454/leet-repo/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ashutosh454/leet-repo/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/ashutosh454/leet-repo/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ashutosh454/leet-repo/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ashutosh454/leet-repo/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashutosh454/leet-repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashutosh454/leet-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/ashutosh454/leet-repo/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/ashutosh454/leet-repo/tree/master/0542-01-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ashutosh454/leet-repo/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ashutosh454/leet-repo/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ashutosh454/leet-repo/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/ashutosh454/leet-repo/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ashutosh454/leet-repo/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ashutosh454/leet-repo/tree/master/0994-rotting-oranges) |
 ## String Matching
