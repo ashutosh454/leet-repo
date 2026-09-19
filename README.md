@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashutosh454/leet-repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ashutosh454/leet-repo/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/ashutosh454/leet-repo/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ashutosh454/leet-repo/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutosh454/leet-repo/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ashutosh454/leet-repo/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ashutosh454/leet-repo/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ashutosh454/leet-repo/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ashutosh454/leet-repo/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/ashutosh454/leet-repo/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ashutosh454/leet-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/ashutosh454/leet-repo/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ashutosh454/leet-repo/tree/master/0205-isomorphic-strings) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ashutosh454/leet-repo/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ashutosh454/leet-repo/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ashutosh454/leet-repo/tree/master/0067-add-binary) |
+| [0127-word-ladder](https://github.com/ashutosh454/leet-repo/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/ashutosh454/leet-repo/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashutosh454/leet-repo/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ashutosh454/leet-repo/tree/master/0392-is-subsequence) |
@@ -401,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashutosh454/leet-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ashutosh454/leet-repo/tree/master/0543-diameter-of-binary-tree) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/ashutosh454/leet-repo/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
