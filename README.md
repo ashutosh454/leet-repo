@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ashutosh454/leet-repo/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ashutosh454/leet-repo/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/ashutosh454/leet-repo/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ashutosh454/leet-repo/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/ashutosh454/leet-repo/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/ashutosh454/leet-repo/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ashutosh454/leet-repo/tree/master/0268-missing-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashutosh454/leet-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/ashutosh454/leet-repo/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutosh454/leet-repo/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ashutosh454/leet-repo/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ashutosh454/leet-repo/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ashutosh454/leet-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ashutosh454/leet-repo/tree/master/0733-flood-fill) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ashutosh454/leet-repo/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ashutosh454/leet-repo/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutosh454/leet-repo/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ashutosh454/leet-repo/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ashutosh454/leet-repo/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/ashutosh454/leet-repo/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ashutosh454/leet-repo/tree/master/0733-flood-fill) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ashutosh454/leet-repo/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ashutosh454/leet-repo/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/ashutosh454/leet-repo/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ashutosh454/leet-repo/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ashutosh454/leet-repo/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ashutosh454/leet-repo/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ashutosh454/leet-repo/tree/master/0994-rotting-oranges) |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ashutosh454/leet-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ashutosh454/leet-repo/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ashutosh454/leet-repo/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/ashutosh454/leet-repo/tree/master/1020-number-of-enclaves) |
 ## Binary Search Tree
 |  |
