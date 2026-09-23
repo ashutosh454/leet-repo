@@ -6,8 +6,8 @@ class Solution:
         adj_list = [[] for _ in range(numCourses)]
 
         for u,v in prerequisites:
-            adj_list[v].append(u)
-            indegree[u]+=1
+            adj_list[u].append(v)
+            indegree[v]+=1
         
         queue = deque()
         count = 0
