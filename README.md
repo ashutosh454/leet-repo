@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ashutosh454/leet-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/ashutosh454/leet-repo/tree/master/0520-detect-capital) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/ashutosh454/leet-repo/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ashutosh454/leet-repo/tree/master/1796-second-largest-digit-in-a-string) |
 | [2299-strong-password-checker-ii](https://github.com/ashutosh454/leet-repo/tree/master/2299-strong-password-checker-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/ashutosh454/leet-repo/tree/master/2390-removing-stars-from-a-string) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ashutosh454/leet-repo/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutosh454/leet-repo/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashutosh454/leet-repo/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/ashutosh454/leet-repo/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2235-add-two-integers](https://github.com/ashutosh454/leet-repo/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/ashutosh454/leet-repo/tree/master/2469-convert-the-temperature) |
 | [2582-pass-the-pillow](https://github.com/ashutosh454/leet-repo/tree/master/2582-pass-the-pillow) |
