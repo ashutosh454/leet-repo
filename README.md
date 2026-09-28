@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ashutosh454/leet-repo/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ashutosh454/leet-repo/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ashutosh454/leet-repo/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/ashutosh454/leet-repo/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ashutosh454/leet-repo/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ashutosh454/leet-repo/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/ashutosh454/leet-repo/tree/master/0216-combination-sum-iii) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ashutosh454/leet-repo/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ashutosh454/leet-repo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ashutosh454/leet-repo/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ashutosh454/leet-repo/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/ashutosh454/leet-repo/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ashutosh454/leet-repo/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ashutosh454/leet-repo/tree/master/2220-minimum-bit-flips-to-convert-number) |
