@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ashutosh454/leet-repo/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashutosh454/leet-repo/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ashutosh454/leet-repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/ashutosh454/leet-repo/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ashutosh454/leet-repo/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashutosh454/leet-repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashutosh454/leet-repo/tree/master/3875-construct-uniform-parity-array-i) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ashutosh454/leet-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashutosh454/leet-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ashutosh454/leet-repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/ashutosh454/leet-repo/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Matrix
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ashutosh454/leet-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ashutosh454/leet-repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/ashutosh454/leet-repo/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ashutosh454/leet-repo/tree/master/2831-find-the-longest-equal-subarray) |
 ## Memoization
 |  |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ashutosh454/leet-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashutosh454/leet-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ashutosh454/leet-repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/ashutosh454/leet-repo/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ashutosh454/leet-repo/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashutosh454/leet-repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bucket Sort
