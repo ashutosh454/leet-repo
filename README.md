@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashutosh454/leet-repo/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ashutosh454/leet-repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ashutosh454/leet-repo/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2321-maximum-score-of-spliced-array](https://github.com/ashutosh454/leet-repo/tree/master/2321-maximum-score-of-spliced-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ashutosh454/leet-repo/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashutosh454/leet-repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashutosh454/leet-repo/tree/master/3875-construct-uniform-parity-array-i) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ashutosh454/leet-repo/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/ashutosh454/leet-repo/tree/master/0542-01-matrix) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ashutosh454/leet-repo/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2321-maximum-score-of-spliced-array](https://github.com/ashutosh454/leet-repo/tree/master/2321-maximum-score-of-spliced-array) |
 ## Sorting
 |  |
 | ------- |
