@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ashutosh454/leet-repo/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/ashutosh454/leet-repo/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashutosh454/leet-repo/tree/master/0930-binary-subarrays-with-sum) |
+| [0976-largest-perimeter-triangle](https://github.com/ashutosh454/leet-repo/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/ashutosh454/leet-repo/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashutosh454/leet-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/ashutosh454/leet-repo/tree/master/1020-number-of-enclaves) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ashutosh454/leet-repo/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ashutosh454/leet-repo/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ashutosh454/leet-repo/tree/master/0268-missing-number) |
+| [0976-largest-perimeter-triangle](https://github.com/ashutosh454/leet-repo/tree/master/0976-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutosh454/leet-repo/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashutosh454/leet-repo/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ashutosh454/leet-repo/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ashutosh454/leet-repo/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ashutosh454/leet-repo/tree/master/0611-valid-triangle-number) |
 | [0860-lemonade-change](https://github.com/ashutosh454/leet-repo/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/ashutosh454/leet-repo/tree/master/0976-largest-perimeter-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ashutosh454/leet-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ashutosh454/leet-repo/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ashutosh454/leet-repo/tree/master/0611-valid-triangle-number) |
+| [0976-largest-perimeter-triangle](https://github.com/ashutosh454/leet-repo/tree/master/0976-largest-perimeter-triangle) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh454/leet-repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ashutosh454/leet-repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ashutosh454/leet-repo/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/ashutosh454/leet-repo/tree/master/0976-largest-perimeter-triangle) |
 ## DP on Trees
 |  |
 | ------- |
@@ -500,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/ashutosh454/leet-repo/tree/master/0802-find-eventual-safe-states) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/ashutosh454/leet-repo/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
