@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2321-maximum-score-of-spliced-array](https://github.com/ashutosh454/leet-repo/tree/master/2321-maximum-score-of-spliced-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ashutosh454/leet-repo/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashutosh454/leet-repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/ashutosh454/leet-repo/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashutosh454/leet-repo/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/ashutosh454/leet-repo/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ashutosh454/leet-repo/tree/master/0611-valid-triangle-number) |
 | [0860-lemonade-change](https://github.com/ashutosh454/leet-repo/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/ashutosh454/leet-repo/tree/master/0976-largest-perimeter-triangle) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/ashutosh454/leet-repo/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh454/leet-repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ashutosh454/leet-repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/ashutosh454/leet-repo/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Counting Sort
 |  |
 | ------- |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ashutosh454/leet-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ashutosh454/leet-repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ashutosh454/leet-repo/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/ashutosh454/leet-repo/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Matrix
 |  |
 | ------- |
@@ -509,4 +513,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/ashutosh454/leet-repo/tree/master/0976-largest-perimeter-triangle) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/ashutosh454/leet-repo/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 <!---LeetCode Topics End-->
