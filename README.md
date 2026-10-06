@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ashutosh454/leet-repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ashutosh454/leet-repo/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ashutosh454/leet-repo/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ashutosh454/leet-repo/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ashutosh454/leet-repo/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ashutosh454/leet-repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ashutosh454/leet-repo/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ashutosh454/leet-repo/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ashutosh454/leet-repo/tree/master/1796-second-largest-digit-in-a-string) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ashutosh454/leet-repo/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2299-strong-password-checker-ii](https://github.com/ashutosh454/leet-repo/tree/master/2299-strong-password-checker-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/ashutosh454/leet-repo/tree/master/2390-removing-stars-from-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ashutosh454/leet-repo/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0420-strong-password-checker](https://github.com/ashutosh454/leet-repo/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/ashutosh454/leet-repo/tree/master/0451-sort-characters-by-frequency) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ashutosh454/leet-repo/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Simulation
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/ashutosh454/leet-repo/tree/master/0976-largest-perimeter-triangle) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh454/leet-repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ashutosh454/leet-repo/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ashutosh454/leet-repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ashutosh454/leet-repo/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Counting Sort
@@ -514,4 +518,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/ashutosh454/leet-repo/tree/master/0976-largest-perimeter-triangle) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ashutosh454/leet-repo/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ashutosh454/leet-repo/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ashutosh454/leet-repo/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
