@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-strong-password-checker-ii](https://github.com/ashutosh454/leet-repo/tree/master/2299-strong-password-checker-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/ashutosh454/leet-repo/tree/master/2390-removing-stars-from-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ashutosh454/leet-repo/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3798-largest-even-number](https://github.com/ashutosh454/leet-repo/tree/master/3798-largest-even-number) |
 | [3941-password-strength](https://github.com/ashutosh454/leet-repo/tree/master/3941-password-strength) |
 ## Math
 |  |
