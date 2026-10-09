@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ashutosh454/leet-repo/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ashutosh454/leet-repo/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ashutosh454/leet-repo/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/ashutosh454/leet-repo/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/ashutosh454/leet-repo/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/ashutosh454/leet-repo/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/ashutosh454/leet-repo/tree/master/0260-single-number-iii) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashutosh454/leet-repo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashutosh454/leet-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ashutosh454/leet-repo/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/ashutosh454/leet-repo/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/ashutosh454/leet-repo/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/ashutosh454/leet-repo/tree/master/0542-01-matrix) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ashutosh454/leet-repo/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
