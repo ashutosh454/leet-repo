@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ashutosh454/leet-repo/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2321-maximum-score-of-spliced-array](https://github.com/ashutosh454/leet-repo/tree/master/2321-maximum-score-of-spliced-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ashutosh454/leet-repo/tree/master/2831-find-the-longest-equal-subarray) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashutosh454/leet-repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashutosh454/leet-repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ashutosh454/leet-repo/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashutosh454/leet-repo/tree/master/3875-construct-uniform-parity-array-i) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh454/leet-repo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ashutosh454/leet-repo/tree/master/1796-second-largest-digit-in-a-string) |
 | [2831-find-the-longest-equal-subarray](https://github.com/ashutosh454/leet-repo/tree/master/2831-find-the-longest-equal-subarray) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashutosh454/leet-repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashutosh454/leet-repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3941-password-strength](https://github.com/ashutosh454/leet-repo/tree/master/3941-password-strength) |
 ## String
@@ -545,4 +547,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ashutosh454/leet-repo/tree/master/0139-word-break) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashutosh454/leet-repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashutosh454/leet-repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
