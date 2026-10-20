@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ashutosh454/leet-repo/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2299-strong-password-checker-ii](https://github.com/ashutosh454/leet-repo/tree/master/2299-strong-password-checker-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/ashutosh454/leet-repo/tree/master/2390-removing-stars-from-a-string) |
+| [2864-maximum-odd-binary-number](https://github.com/ashutosh454/leet-repo/tree/master/2864-maximum-odd-binary-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ashutosh454/leet-repo/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3798-largest-even-number](https://github.com/ashutosh454/leet-repo/tree/master/3798-largest-even-number) |
 | [3941-password-strength](https://github.com/ashutosh454/leet-repo/tree/master/3941-password-strength) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/ashutosh454/leet-repo/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/ashutosh454/leet-repo/tree/master/2469-convert-the-temperature) |
 | [2582-pass-the-pillow](https://github.com/ashutosh454/leet-repo/tree/master/2582-pass-the-pillow) |
+| [2864-maximum-odd-binary-number](https://github.com/ashutosh454/leet-repo/tree/master/2864-maximum-odd-binary-number) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ashutosh454/leet-repo/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ashutosh454/leet-repo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashutosh454/leet-repo/tree/master/3875-construct-uniform-parity-array-i) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ashutosh454/leet-repo/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/ashutosh454/leet-repo/tree/master/0976-largest-perimeter-triangle) |
 | [1903-largest-odd-number-in-string](https://github.com/ashutosh454/leet-repo/tree/master/1903-largest-odd-number-in-string) |
+| [2864-maximum-odd-binary-number](https://github.com/ashutosh454/leet-repo/tree/master/2864-maximum-odd-binary-number) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ashutosh454/leet-repo/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ashutosh454/leet-repo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Heap (Priority Queue)
