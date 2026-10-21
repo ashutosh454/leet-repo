@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ashutosh454/leet-repo/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ashutosh454/leet-repo/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/ashutosh454/leet-repo/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashutosh454/leet-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/ashutosh454/leet-repo/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ashutosh454/leet-repo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ashutosh454/leet-repo/tree/master/1021-remove-outermost-parentheses) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ashutosh454/leet-repo/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashutosh454/leet-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ashutosh454/leet-repo/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ashutosh454/leet-repo/tree/master/1903-largest-odd-number-in-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ashutosh454/leet-repo/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashutosh454/leet-repo/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ashutosh454/leet-repo/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashutosh454/leet-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
 |  |
 | ------- |
