@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ashutosh454/leet-repo/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2299-strong-password-checker-ii](https://github.com/ashutosh454/leet-repo/tree/master/2299-strong-password-checker-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/ashutosh454/leet-repo/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/ashutosh454/leet-repo/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/ashutosh454/leet-repo/tree/master/2864-maximum-odd-binary-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ashutosh454/leet-repo/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3798-largest-even-number](https://github.com/ashutosh454/leet-repo/tree/master/3798-largest-even-number) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/ashutosh454/leet-repo/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1903-largest-odd-number-in-string](https://github.com/ashutosh454/leet-repo/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/ashutosh454/leet-repo/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/ashutosh454/leet-repo/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/ashutosh454/leet-repo/tree/master/2469-convert-the-temperature) |
 | [2582-pass-the-pillow](https://github.com/ashutosh454/leet-repo/tree/master/2582-pass-the-pillow) |
 | [2864-maximum-odd-binary-number](https://github.com/ashutosh454/leet-repo/tree/master/2864-maximum-odd-binary-number) |
