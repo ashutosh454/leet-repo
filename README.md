@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/ashutosh454/leet-repo/tree/master/0520-detect-capital) |
 | [1021-remove-outermost-parentheses](https://github.com/ashutosh454/leet-repo/tree/master/1021-remove-outermost-parentheses) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ashutosh454/leet-repo/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1360-number-of-days-between-two-dates](https://github.com/ashutosh454/leet-repo/tree/master/1360-number-of-days-between-two-dates) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ashutosh454/leet-repo/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashutosh454/leet-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ashutosh454/leet-repo/tree/master/1796-second-largest-digit-in-a-string) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/ashutosh454/leet-repo/tree/master/0976-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutosh454/leet-repo/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashutosh454/leet-repo/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1360-number-of-days-between-two-dates](https://github.com/ashutosh454/leet-repo/tree/master/1360-number-of-days-between-two-dates) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ashutosh454/leet-repo/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1903-largest-odd-number-in-string](https://github.com/ashutosh454/leet-repo/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/ashutosh454/leet-repo/tree/master/2235-add-two-integers) |
