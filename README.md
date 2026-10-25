@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ashutosh454/leet-repo/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/ashutosh454/leet-repo/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/ashutosh454/leet-repo/tree/master/0542-01-matrix) |
+| [0565-array-nesting](https://github.com/ashutosh454/leet-repo/tree/master/0565-array-nesting) |
 | [0611-valid-triangle-number](https://github.com/ashutosh454/leet-repo/tree/master/0611-valid-triangle-number) |
 | [0665-non-decreasing-array](https://github.com/ashutosh454/leet-repo/tree/master/0665-non-decreasing-array) |
 | [0713-subarray-product-less-than-k](https://github.com/ashutosh454/leet-repo/tree/master/0713-subarray-product-less-than-k) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ashutosh454/leet-repo/tree/master/0210-course-schedule-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ashutosh454/leet-repo/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ashutosh454/leet-repo/tree/master/0543-diameter-of-binary-tree) |
+| [0565-array-nesting](https://github.com/ashutosh454/leet-repo/tree/master/0565-array-nesting) |
 | [0733-flood-fill](https://github.com/ashutosh454/leet-repo/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ashutosh454/leet-repo/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ashutosh454/leet-repo/tree/master/0802-find-eventual-safe-states) |
