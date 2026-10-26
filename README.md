@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutosh454/leet-repo/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/ashutosh454/leet-repo/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ashutosh454/leet-repo/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ashutosh454/leet-repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh454/leet-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ashutosh454/leet-repo/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ashutosh454/leet-repo/tree/master/0455-assign-cookies) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ashutosh454/leet-repo/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashutosh454/leet-repo/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/ashutosh454/leet-repo/tree/master/0273-integer-to-english-words) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ashutosh454/leet-repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ashutosh454/leet-repo/tree/master/0392-is-subsequence) |
 | [0420-strong-password-checker](https://github.com/ashutosh454/leet-repo/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/ashutosh454/leet-repo/tree/master/0451-sort-characters-by-frequency) |
